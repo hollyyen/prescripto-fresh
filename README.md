@@ -73,3 +73,5 @@ Follow these instructions to set up the project locally.
 
 # Topics
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
+https://prescripto-fresh-7ily.vercel.app/
+https://prescripto-fresh.onrender.com/
